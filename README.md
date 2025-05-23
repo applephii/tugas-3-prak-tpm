@@ -1,16 +1,13 @@
 # tugas_3_prak_tpm
 
-A new Flutter project.
+Mobile Application with API
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+- Create item by clicking the "+" button on the bottom right
+- Edit on Home Page by clicking "pen" button on the bottom left of each card item
+- Delete on Home Page by clicking "trash" button on the bottom right of each card item
+- "More" button on Home Page to see the detail for each item
+- Edit on Detail Page by clicking "Edit" button on the bottom left
+- Edit on Detail Page by clicking "Edit" button on the bottom right
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
